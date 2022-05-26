@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.LoginForm {
+  display: flex;
+  flex-direction: column;
+  width: 20rem;
+  padding: 1rem;
+}
+.input {
+  margin: 0.5rem 0 0.5rem 0;
+}
+.btn {
+  margin: 0.5rem 0 0 0;
+  width: 12rem;
+}
